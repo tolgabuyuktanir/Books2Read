@@ -1,1 +1,2 @@
 # Books2Read
+1. [THE QUEST FOR ARTIFICIAL INTELLIGENCE A HISTORY OF IDEAS AND ACHIEVEMENTS](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
